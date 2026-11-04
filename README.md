@@ -1,42 +1,39 @@
-# Arte Sheets: documentation and examples
+# Arte Sheets — user documentation
 
-Browser-based spreadsheets, practical lessons and optional AI assistance.
+Browser spreadsheets with practical lessons, collaboration and optional AI assistance.
 
-Maintained by Arte Soft. [Official website](https://sheets.arte-soft.com/) · [Company](https://arte-soft.com/)
+[Official product website](https://sheets.arte-soft.com/)
 
-This public repository contains product documentation, reproducible workflow examples and a measurement protocol. It is not the application's source-code repository.
+## Who this is for
 
-## Product overview
+People learning formulas or preparing shared calculations without installing a desktop spreadsheet suite.
 
-- Edit formulas, multiple worksheets, charts and pivot tables in a browser.
-- Import Excel workbooks or CSV and export the results.
-- Try browser-local workbooks without an account; cloud storage and sharing require an account and are subject to plan limits.
-- Collaborate with comments, suggestions and document permissions.
-- Learn with public guides and worked examples. Pro includes AI assistance and Academy features.
+## Read the documentation
 
-## Example: check a category total
+| Guide | What you will find |
+| --- | --- |
+| [Quick start](QUICK_START.md) | Prepare, complete and verify your first task. |
+| [Practical workflows](WORKFLOWS.md) | Concrete use cases and review steps. |
+| [Features and limitations](FEATURES_AND_LIMITS.md) | Supported workflows and important boundaries. |
+| [Frequently asked questions](FAQ.md) | Answers about usage, access and expectations. |
+| [Privacy and support](PRIVACY_AND_SUPPORT.md) | Data handling, public sources and a useful support report. |
 
-Enter the following synthetic data in A1:B5:
+## At a glance
 
-| Category | Amount |
-| --- | ---: |
-| Tools | 18 |
-| Seeds | 27 |
-| Tools | 15 |
-| Tools | -3 |
+| Capability | What the product documents | Boundary to check |
+| --- | --- | --- |
+| Workbooks | Formulas, sheets, charts, pivot tables and Excel/CSV import/export. | Test important imported formulas and formatting before replacing an original workbook. |
+| Local and cloud | Try the editor without an account; choose cloud storage and sharing with an account. | Browser-local storage is not a separate backup. Cloud and collaboration have account/plan limits. |
+| Learning and AI | Public guides and worked examples; Pro assistant and Academy features. | AI output must be checked. The public site says the ChatGPT connector is submitted for review, not publicly approved. |
 
-Use `=SUMIF(A2:A5,"Tools",B2:B5)`. The expected result is **30**. Change the final amount from -3 to -5; the expected result becomes **28**. These are arithmetic reference answers, not a claim that an application compatibility test has been run.
+## Scope and provenance
 
-See the [learning library](https://sheets.arte-soft.com/en/learn/) and [open the editor](https://sheets.arte-soft.com/app/?lang=en).
+Published by the product developer as first-party user documentation. It covers public behavior, examples and limitations; it does not contain the private application source, credentials or internal operational configuration. It is not an independent review, security audit or comparative benchmark.
 
-## Evaluation
+Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-See [BENCHMARKS.md](BENCHMARKS.md) for the measurement protocol and [RESULT_TEMPLATE.md](RESULT_TEMPLATE.md) for a run report. **No measured benchmark results are published in this initial release.** Example inputs and expected answers are clearly distinguished from observed application results.
+Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
 
-## Sources and freshness
+## Evaluation resources
 
-Product overview prepared on 2026-11-04 from the [official product site](https://sheets.arte-soft.com/) and developer-provided product materials. Features, availability and pricing can change; consult the current app and official site. This is first-party documentation, not an independent review or evidence of superiority over another product.
-
-## Feedback
-
-Open an issue for documentation corrections or reproducible workflow problems. Include the product version, operating system and minimal reproduction. Do not post passwords, API keys, account identifiers, private media or customer data.
+The existing [measurement protocol](BENCHMARKS.md) and [run template](RESULT_TEMPLATE.md) remain available. They are protocols, not completed benchmark results.
