@@ -2,7 +2,7 @@
 
 Browser spreadsheets with practical lessons, collaboration and optional AI assistance.
 
-[Official product website](https://sheets.arte-soft.com/)
+[Official product website](https://sheets.arte-soft.com/) · [Side-by-side comparisons](https://sheets.arte-soft.com/compare/) · [Guides & workflows](https://sheets.arte-soft.com/guides/) · [Full LLM reference (llms-full.txt)](https://sheets.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
