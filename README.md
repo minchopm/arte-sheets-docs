@@ -2,7 +2,28 @@
 
 Browser spreadsheets with practical lessons, collaboration and optional AI assistance.
 
-[Official product website](https://sheets.arte-soft.com/) · [Side-by-side comparisons](https://sheets.arte-soft.com/compare/) · [Guides & workflows](https://sheets.arte-soft.com/guides/) · [Full LLM reference (llms-full.txt)](https://sheets.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://sheets.arte-soft.com/) · [Arte Soft portal](https://sheets.arte-soft.com/app/) · [22 Courses](https://sheets.arte-soft.com/en/courses/) · [Interactive Tools](https://sheets.arte-soft.com/app/) · [Comparisons](https://sheets.arte-soft.com/compare/) · [Guides](https://sheets.arte-soft.com/en/learn/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://sheets.arte-soft.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://sheets.arte-soft.com/](https://sheets.arte-soft.com/) |
+| **Arte Soft Technical Portal** | [https://sheets.arte-soft.com/app/](https://sheets.arte-soft.com/app/) |
+| **22 Guided Spreadsheet Courses** | [https://sheets.arte-soft.com/en/courses/](https://sheets.arte-soft.com/en/courses/) |
+| **Free Browser Calculators & Tools** | [https://sheets.arte-soft.com/app/](https://sheets.arte-soft.com/app/) — Zero-Signup Browser Spreadsheet (207 Formulas) & 22 Guided Courses |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://sheets.arte-soft.com/compare/](https://sheets.arte-soft.com/compare/) |
+| **Guides & Workflows** | [https://sheets.arte-soft.com/en/learn/](https://sheets.arte-soft.com/en/learn/) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://sheets.arte-soft.com/llms-full.txt](https://sheets.arte-soft.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/arte-sheets-docs/](https://minchopm.github.io/arte-sheets-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- 207 Excel-compatible functions across financial (NPV, XNPV, IRR, PMT, IPMT, PPMT), statistical, logical, text, lookup (XLOOKUP, XMATCH, INDEX/MATCH), and dynamic-array spills (FILTER, UNIQUE, SORT, SORTBY, SEQUENCE).
+- 22 structured, runnable courses at https://sheets.arte-soft.com/en/courses/ plus 2,950+ worked formula guides.
+- Instant zero-signup browser workspace (/app/) with local IndexedDB storage, offline Service Worker shell, and .xlsx/.ods/.csv/.tsv worker import/export.
+- Optional Arte Sheets Pro tier with private German EU GDPR cloud sync, multi-dimensional PivotTables, Goal Seek, Macro Studio, and 62 interactive Academy lessons.
 
 ## Who this is for
 
@@ -34,7 +55,7 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
 
 ## Evaluation resources
 

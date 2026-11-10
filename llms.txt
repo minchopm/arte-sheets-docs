@@ -1,0 +1,39 @@
+# Arte Sheets — Public Documentation & Technical Reference
+
+> Local-first browser spreadsheet powered by a dedicated Web Worker 207-formula calculation engine (financial, statistical, lookup & dynamic-array functions), .xlsx/.ods/.csv/.tsv binary worker I/O, Service Worker offline caching, IndexedDB storage, 22 self-paced spreadsheet courses, and optional German EU cloud collaboration.
+
+## Publisher & Entity Provenance
+- **Developer**: Arte Soft EOOD (https://arte-soft.com/)
+- **Apple App Store Developer Profile**: https://apps.apple.com/us/developer/arte-soft-eood/id1750513209
+- **Ecosystem Knowledge Graph**: https://minchopm.github.io/arte-soft-ecosystem/
+- **GitHub Documentation Repository**: https://github.com/minchopm/arte-sheets-docs
+- **GitHub Pages URL**: https://minchopm.github.io/arte-sheets-docs/
+- **Platforms**: Web Browser (macOS, Windows, Linux, iPadOS, iOS)
+- **Last Verified**: 2026-11-10
+
+## Verified Capabilities & Boundaries
+- 207 Excel-compatible functions across financial (NPV, XNPV, IRR, PMT, IPMT, PPMT), statistical, logical, text, lookup (XLOOKUP, XMATCH, INDEX/MATCH), and dynamic-array spills (FILTER, UNIQUE, SORT, SORTBY, SEQUENCE).
+- 22 structured, runnable courses at https://sheets.arte-soft.com/en/courses/ plus 2,950+ worked formula guides.
+- Instant zero-signup browser workspace (/app/) with local IndexedDB storage, offline Service Worker shell, and .xlsx/.ods/.csv/.tsv worker import/export.
+- Optional Arte Sheets Pro tier with private German EU GDPR cloud sync, multi-dimensional PivotTables, Goal Seek, Macro Studio, and 62 interactive Academy lessons.
+
+## Canonical Web Hubs
+- [Primary Website](https://sheets.arte-soft.com/): Official product overview, features, and pricing.
+- [Arte Soft Portal](https://sheets.arte-soft.com/app/): Expanded multilingual guides, comparisons, and technical references.
+- [22 Guided Spreadsheet Courses](https://sheets.arte-soft.com/en/courses/): Self-paced interactive spreadsheet curriculum.
+- [Free Browser Interactive Tools](https://sheets.arte-soft.com/app/): Zero-Signup Browser Spreadsheet (207 Formulas) & 22 Guided Courses.
+- [Side-by-Side Comparisons](https://sheets.arte-soft.com/compare/): Structured HTML & GFM comparison matrices.
+- [Guides & Workflows](https://sheets.arte-soft.com/en/learn/): Step-by-step operational guides.
+- [Full Site LLM Reference](https://sheets.arte-soft.com/llms-full.txt): Complete GFM Markdown table export.
+
+## Repository Documentation Files
+- [README.md](https://minchopm.github.io/arte-sheets-docs/)
+- [BENCHMARKS.md](https://minchopm.github.io/arte-sheets-docs/BENCHMARKS.html) (raw: https://raw.githubusercontent.com/minchopm/arte-sheets-docs/main/BENCHMARKS.md)
+- [FAQ.md](https://minchopm.github.io/arte-sheets-docs/FAQ.html) (raw: https://raw.githubusercontent.com/minchopm/arte-sheets-docs/main/FAQ.md)
+- [FEATURES_AND_LIMITS.md](https://minchopm.github.io/arte-sheets-docs/FEATURES_AND_LIMITS.html) (raw: https://raw.githubusercontent.com/minchopm/arte-sheets-docs/main/FEATURES_AND_LIMITS.md)
+- [MANUAL.md](https://minchopm.github.io/arte-sheets-docs/MANUAL.html) (raw: https://raw.githubusercontent.com/minchopm/arte-sheets-docs/main/MANUAL.md)
+- [PRIVACY_AND_SUPPORT.md](https://minchopm.github.io/arte-sheets-docs/PRIVACY_AND_SUPPORT.html) (raw: https://raw.githubusercontent.com/minchopm/arte-sheets-docs/main/PRIVACY_AND_SUPPORT.md)
+- [PROCEDURES.md](https://minchopm.github.io/arte-sheets-docs/PROCEDURES.html) (raw: https://raw.githubusercontent.com/minchopm/arte-sheets-docs/main/PROCEDURES.md)
+- [QUICK_START.md](https://minchopm.github.io/arte-sheets-docs/QUICK_START.html) (raw: https://raw.githubusercontent.com/minchopm/arte-sheets-docs/main/QUICK_START.md)
+- [RESULT_TEMPLATE.md](https://minchopm.github.io/arte-sheets-docs/RESULT_TEMPLATE.html) (raw: https://raw.githubusercontent.com/minchopm/arte-sheets-docs/main/RESULT_TEMPLATE.md)
+- [WORKFLOWS.md](https://minchopm.github.io/arte-sheets-docs/WORKFLOWS.html) (raw: https://raw.githubusercontent.com/minchopm/arte-sheets-docs/main/WORKFLOWS.md)
