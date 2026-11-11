@@ -25,6 +25,12 @@ Browser spreadsheets with practical lessons, collaboration and optional AI assis
 - Instant zero-signup browser workspace (/app/) with local IndexedDB storage, offline Service Worker shell, and .xlsx/.ods/.csv/.tsv worker import/export.
 - Optional Arte Sheets Pro tier with private German EU GDPR cloud sync, multi-dimensional PivotTables, Goal Seek, Macro Studio, and 62 interactive Academy lessons.
 
+### Embeddable Live Calculators & Spreadsheets ()
+
+- Any workbook range in  (via **</> Embed**) or any of the 3,080 worked formula guides can be embedded on external websites, documentation portals, and blogs via .
+- Supports **Clean Calculator Mode** ( — hides  and  grid headers, highlights editable input fields, formats currencies/percentages, and protects formula cells) as well as **Spreadsheet Grid Mode** with animated step-by-step formula replay () and one-click **Open in Arte Sheets ↗** handoff.
+- Live example (Clean Calculator Mode): [SaaS Unit Economics Calculator](https://sheets.arte-soft.com/embed/?view=clean#wb=z1.bZPdThsxEIVfZTQCtCCLZDc_BKuptGsKvUhatPm5qSrkGCex2F1TrzdqhJD6Dr3oA_VN-iTVOIFGFZeeGX8-Pj5-wg3ymKFHjhMpJzCrjIcPyla2NKrmMM5zBqPpnIFIBZzArdwupHoAIQvVFNJbhwzr_e67sfbOqBoZKuRPmMYv2F0DGWZUmsui0chQ0OLaurIpJLQg05Val9I9IMM0QY6p8maj6UxTrWDSLGrlzEI7OiBLkHeTNkNBk6JxTlceSlv5dbEFZdfWeeJ0iLPRTq405Hqjq0bDo3Ywq7WD6KhV2lOidZAnlwwFjWeFru71PaT57YwQXeR442xdw1i6lakgOg57usjb54MuQ0ET6dJrB6ZaOgkn8Ci3JQlaak1q0x5yHO_FjezKglg37pXUI1K7kzAUNDiVbqU9vIPO8Z8fP3vHMBlnBOmHm9beltpBqr41pjbe2AqErT1ER4HVR57E5AtNXzdFsYXCSrqPSAVRLg6k5Fo1zpG7L95E4zwPHBobZslZ1qGXolWa5zCkRMDvXxAnxBocKhqZpfam1BDeF6LRdB5INDTMP88-XUVR1jnLuqetrMegTU1BzYicJuihy6fQ2plE51wix9F0DjzEMJfeWCJf_iNng1bWZ5AEKNU_aln49RZC_t4PoXPe_k6ouE2aU_Ea5VvtjL2HKGSnDorDzAu439qrZhAHeui-vlGc7FJX4zPDBfIvFPsQ9BDwYHiwM9gV7AgXCvJ3enYnfmW4pF9DWUQVAq22d7PJ1T5r-Kid0pXfB-Zw2X9jx8UbtcH_tefnvw)
+
 ## Who this is for
 
 People learning formulas or preparing shared calculations without installing a desktop spreadsheet suite.
