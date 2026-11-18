@@ -66,3 +66,17 @@ Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPP
 ## Evaluation resources
 
 The existing [measurement protocol](BENCHMARKS.md) and [run template](RESULT_TEMPLATE.md) remain available. They are protocols, not completed benchmark results.
+
+## Free Zero-Upload Browser Spreadsheet Tools & 2026 Guides
+
+- **Web Spreadsheet App (Zero Sign-Up / Offline IndexedDB / EU Sync):** https://sheets.arte-soft.com/app/?lang=en
+- **12 Free Zero-Upload Browser Spreadsheet Tools:** https://sheets.arte-soft.com/tools/
+  - [CSV to JSON, TSV & SQL Converter](https://sheets.arte-soft.com/tools/csv-to-json-tsv-converter/)
+  - [Markdown Table to Excel / CSV Converter](https://sheets.arte-soft.com/tools/markdown-table-to-csv-excel/)
+  - [Interactive XLOOKUP, VLOOKUP & INDEX/MATCH Builder](https://sheets.arte-soft.com/tools/xlookup-vlookup-formula-generator/)
+  - [Excel Formula Prettifier & Explainer](https://sheets.arte-soft.com/tools/excel-formula-explainer-prettifier/)
+  - [European Semicolon CSV & Comma Decimal Fixer](https://sheets.arte-soft.com/tools/european-csv-delimiter-decimal-fixer/)
+  - [Loan Amortization Schedule & CSV Generator](https://sheets.arte-soft.com/tools/loan-amortization-schedule-generator/)
+- **65 Deep 2026 AI Spreadsheet & Formula Guides:** https://sheets.arte-soft.com/en/articles/
+- **142 Spreadsheet, AI Grid & Database Comparisons:** https://sheets.arte-soft.com/compare/
+- **3,000+ Interactive Excel & Spreadsheet Lessons:** https://sheets.arte-soft.com/en/learn/
